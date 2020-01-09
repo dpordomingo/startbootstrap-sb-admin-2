@@ -1,7 +1,7 @@
 {
     "title": "SB Admin 2",
-    "name": "startbootstrap-sb-admin-2",
-    "version": "4.0.7",
+    "name": "@dpordomingo/startbootstrap-sb-admin-2",
+    "version": "4.0.8",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
@@ -24,11 +24,12 @@
     "license": "MIT",
     "author": "Start Bootstrap",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "David Miller (http://davidmiller.io/)",
+        "David Pordomingo (http://www.dpordomingo.es/)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-sb-admin-2.git"
+        "url": "https://github.com/dpordomingo/startbootstrap-sb-admin-2.git"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.10.2",
